@@ -1,12 +1,12 @@
 
 var hasDocked = false;
 function preload(){
-  bg = loadImage("sprites/spacebg.jpg")
-  craftImg = loadImage("sprites/spacecraft1.png")
-  craftImg2 = loadImage("sprites/spacecraft2.png")
-  craftImg3 = loadImage("sprites/spacecraft3.png")
-  craftImg4 = loadImage("sprites/spacecraft4.png")
-  issImg = loadImage("sprites/iss.png")
+  bg = loadImage("spacebg.jpg")
+  craftImg = loadImage("spacecraft1.png")
+  craftImg2 = loadImage("spacecraft2.png")
+  craftImg3 = loadImage("spacecraft3.png")
+  craftImg4 = loadImage("spacecraft4.png")
+  issImg = loadImage("iss.png")
 }
 
 
